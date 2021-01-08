@@ -1,16 +1,11 @@
                          : : : : : LOGIN DETAILS : : : : : 
 
-ADMIN PANEL LOGIN:
-
 >> NOTE : (for admin panel, login from the user's login)
->>Enter the following details in Login for Admin Panel.
-
-Username: admin@technicalbabaji.com
-Password: babaji
+>>Enter the following details in Login for Admin Panel
 
 USER LOGIN:
 
-Username: tarique.rkl@gmail.com
+Username: marsono101001@gmail.com
 Password: technical
 
 DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
